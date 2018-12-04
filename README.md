@@ -13,8 +13,6 @@ This is a totally secure java chat application
 
 **ADMINS ABLE TO HAVE ACCESS TO ALL MESSAGE ACCESS**
 
-**PRIVATE CHAT**
-
 **PUBLIC LOBBY CHAT**
 
 
