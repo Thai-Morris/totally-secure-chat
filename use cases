@@ -1,0 +1,15 @@
+Use Cases:
+
+- I send a thousand messages in less than a tenth of a second. What will happen?
+
+- Sanitize input.
+
+- Login a thousand times in a second.
+
+- Create an account with a name with code within it. (sanitize account names)
+
+- As part of Microsoft SDL practice #6, requires a cryptography standard.
+
+- After build, run penetration testing and static code analysis.
+
+- Write an incident response process to handle incidents
